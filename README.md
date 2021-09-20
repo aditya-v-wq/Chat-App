@@ -1,6 +1,6 @@
 # Chat Application
 
-![Chat App](/images/Chat App.jpg)
+![Chat App](/Chat App.jpg)
 Format: ![Chat App](url)
 
 This repository contains code for Chat App which is web Application designed using HTML, CSS, React JS, JSX.
